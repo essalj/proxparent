@@ -6,7 +6,7 @@ This project is very(!) simple and on the beginning of it's creation.
 
 # Basic Usage
 The basic usage of the proxy is very simple.<br>
-All there is to do is to start `main.py` and the proxy is working on port 8080.
+All there is to do is to start `main.py` and the proxy is working on port 8080.<br>
 ---GUI---<br>
 The GUI is Tkinter based with simple implementation of `PIL`.
 
