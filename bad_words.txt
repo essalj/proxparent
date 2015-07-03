@@ -1,0 +1,67 @@
+{
+    "PORNO": [
+        "sex", 
+        "lesbian", 
+        "hardcore", 
+        "condom", 
+        "fuck", 
+        "suck", 
+        "sperm", 
+        "cock", 
+        "dick", 
+        "vagina", 
+        "tits", 
+        "porn", 
+        "erotic", 
+        "erotic pictures", 
+        "sex pictures", 
+        "teen sex", 
+        "teen lesbian", 
+        "pornography", 
+        "porn star", 
+        "porn movie", 
+        "love"
+    ], 
+    "DRUGS": [
+        "LSD", 
+        "heroin", 
+        "drugs", 
+        "ganja", 
+        "marijuana"
+    ], 
+    "VIOLENCE": [
+        "kill", 
+        "blood", 
+        "tissue", 
+        "wound", 
+        "rotten", 
+        "crime"
+    ], 
+    "CUSTOM": [
+        "fog"
+    ], 
+    "WEAPONS": [
+        "sniper riffle", 
+        "automatic riffle", 
+        "weapons", 
+        "ak47", 
+        "pistols", 
+        "SMG", 
+        "machineguns", 
+        "torpedo", 
+        "atom bomb", 
+        "bomb", 
+        "Anti Air", 
+        "Military", 
+        "Army", 
+        "tank", 
+        "riffle", 
+        "bazooka", 
+        "missle", 
+        "guided missle"
+    ], 
+    "CHAT": [
+        "chat", 
+        "dating"
+    ]
+}
